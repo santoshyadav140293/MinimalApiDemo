@@ -1,0 +1,12 @@
+D:\Web Api\MinimalAPIDemo-master\MinimalAPIDemo-master\DataAccessLib\bin\Debug\net6.0\DataAccessLib.deps.json
+D:\Web Api\MinimalAPIDemo-master\MinimalAPIDemo-master\DataAccessLib\bin\Debug\net6.0\DataAccessLib.dll
+D:\Web Api\MinimalAPIDemo-master\MinimalAPIDemo-master\DataAccessLib\bin\Debug\net6.0\DataAccessLib.pdb
+D:\Web Api\MinimalAPIDemo-master\MinimalAPIDemo-master\DataAccessLib\obj\Debug\net6.0\DataAccessLib.csproj.AssemblyReference.cache
+D:\Web Api\MinimalAPIDemo-master\MinimalAPIDemo-master\DataAccessLib\obj\Debug\net6.0\DataAccessLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Api\MinimalAPIDemo-master\MinimalAPIDemo-master\DataAccessLib\obj\Debug\net6.0\DataAccessLib.AssemblyInfoInputs.cache
+D:\Web Api\MinimalAPIDemo-master\MinimalAPIDemo-master\DataAccessLib\obj\Debug\net6.0\DataAccessLib.AssemblyInfo.cs
+D:\Web Api\MinimalAPIDemo-master\MinimalAPIDemo-master\DataAccessLib\obj\Debug\net6.0\DataAccessLib.csproj.CoreCompileInputs.cache
+D:\Web Api\MinimalAPIDemo-master\MinimalAPIDemo-master\DataAccessLib\obj\Debug\net6.0\DataAccessLib.dll
+D:\Web Api\MinimalAPIDemo-master\MinimalAPIDemo-master\DataAccessLib\obj\Debug\net6.0\refint\DataAccessLib.dll
+D:\Web Api\MinimalAPIDemo-master\MinimalAPIDemo-master\DataAccessLib\obj\Debug\net6.0\DataAccessLib.pdb
+D:\Web Api\MinimalAPIDemo-master\MinimalAPIDemo-master\DataAccessLib\obj\Debug\net6.0\ref\DataAccessLib.dll
